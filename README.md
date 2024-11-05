@@ -98,7 +98,7 @@ Therefore, for future improvements, we are looking to place publishing and updat
 
 **Short Demo:**
 
-<video src=".\images\ShortFormDemo.mp4"></video>
+<video src=".\images\DemoVid.mp4"></video>
 
 **Long Demo:**
 
