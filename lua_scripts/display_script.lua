@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+-- INSERT PARAMETERS
+
+>>>>>>> ben-setup
 local displayGroup = workspace.Displays
 local display_no = 0	
 

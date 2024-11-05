@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+-- INSERT PARAMETERS
+
+>>>>>>> ben-setup
 local player = game.Players.LocalPlayer 
 local on_screen = player:WaitForChild("PlayerGui"):WaitForChild("ScreenGui"):WaitForChild("Frame"):WaitForChild("Text")
 

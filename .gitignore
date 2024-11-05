@@ -1,7 +1,12 @@
 # keys
+<<<<<<< HEAD
 *.ini
 .cache
 *cache*
+=======
+auth/
+.cache
+>>>>>>> ben-setup
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -46,7 +51,11 @@ htmlcov/
 .nox/
 .coverage
 .coverage.*
+<<<<<<< HEAD
 .cache
+=======
+.cache*
+>>>>>>> ben-setup
 nosetests.xml
 coverage.xml
 *.cover
