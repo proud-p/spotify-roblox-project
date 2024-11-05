@@ -57,8 +57,6 @@ For more details, refer to the Roblox documentation here: [Roblox API Reference 
 ### Software Prerequisites
 - Roblox Studio needs to be installed
 
-## Directory Structure
-
 ### Steps
 1. Clone the repository.
 2. Run:
@@ -74,13 +72,14 @@ For more details, refer to the Roblox documentation here: [Roblox API Reference 
 
 ## Directory Structure
 - **auth/** : Created by main.ipynb if not already exists to create authentication template
-- **images** : Images for github.
-- **lua_scripts** : Contains lua scripts which will be manipulated in python and pushed into Roblox Studio
+- **images/** : Images for github.
+- **lua_scripts/** : Contains lua scripts which will be manipulated in python and pushed into Roblox Studio
 - **utils/** : 
     -   auth_init.py : Check for and create authentication folder to store your keys
     - roblox_functions.py : Wrapper functions for Roblox API
     - spotify_auth.py : Spotify authentication, run once or when cache token expires
     - spotify_functions.py : Contain functions to clean spotify outputs.
+- **main.ipynb** : Main notebook to be run.
 
 ## Configuration
 Please run:
