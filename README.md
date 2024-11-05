@@ -98,6 +98,8 @@ Therefore, for future improvements, we are looking to place publishing and updat
 
 **Short Demo:**
 
+Video: https://youtu.be/z86GXtiNmXE?si=X0IgFG-2LHB4uyI9
+
 <video src=".\images\DemoVid.mp4"></video>
 
 **Long Demo:**
