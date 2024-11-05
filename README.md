@@ -24,6 +24,7 @@ Additionally, the Roblox API is utilized to display the song and artist name fro
 - [Configuration](#configuration)
 - [Acknowledgements](#acknowledgements)
 - [Future Improvements](#future-improvements)
+- [Video Demonstrations](#video-demonstrations)
 
 ## APIs and API Keys
 
@@ -92,3 +93,13 @@ Please run:
 Currently there is no way to publish the game, so this project, although successfully updates the lua script in Roblox studio, will not publish the game, so the changes will only be seen locally. 
 
 Therefore, for future improvements, we are looking to place publishing and updating scripts at run-time.
+
+## Video Demonstrations
+
+**Short Demo:**
+
+<video src=".\images\ShortFormDemo.mp4"></video>
+
+**Long Demo:**
+
+Video: https://youtu.be/L0hRuD_4aEc?si=EKr52O8NNid4buLP
